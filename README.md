@@ -23,4 +23,4 @@ Some renders of the final assembly of the casing in Autodesk Fusion.
 
 This is the final 3D-cast model populated by the mechanism of a closely related - yet far easier to source - wristwatch by the same manufacturer. 
 
-![Image of the final recreation](https://github.com/BergiBerghold/bulova-cad-model/blob/main/Photo.jpeg?raw=true)
+![Image of the final recreation](https://github.com/BergiBerghold/bulova-cad-model/blob/main/Photo.png?raw=true)
